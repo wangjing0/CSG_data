@@ -1,4 +1,4 @@
-# Neural data for "Reinforcement regulates timing variability in thalamus"
+# Neural data
 
   Two monkeys, Three brain areas: 
       'Acortex'
