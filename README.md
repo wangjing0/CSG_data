@@ -1,4 +1,4 @@
-# Behavioral data
+Behavioral data
 
 Behavior.mat
 
@@ -7,7 +7,7 @@ Behavior.mat
       CSG.Human   :Main task in Humans
       CSGrandom.Subject** : with probabilistic random reward given
   
-# Neural data
+Neural data
 
 start from this file: SpikingData.zip
 
