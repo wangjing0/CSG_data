@@ -1,6 +1,7 @@
 # Neural data
+unzip this file: SpikingData.zip
 
-  Two monkeys, Three brain areas: 
+  Two monkeys and three brain areas: 
      { 'Acortex';
       'Dcortex';
       'Acaudate';
