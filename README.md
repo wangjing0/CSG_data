@@ -1,4 +1,4 @@
-## Behavioral data in 
+## Behavioral
 
 ### Behavior.mat
 
@@ -15,7 +15,7 @@
       Long: 1, Long interval; 0, Short interval trial type
       Left: 1, Saccadic target at left visual field; 0, right
       Reward: amount of reward normalized to the maximium value.
-## Neural data
+## Neural
 
 ### unzip this file: SpikingData.zip
  Two monkeys and three brain areas:  
