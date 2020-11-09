@@ -1,13 +1,13 @@
 ## Behavioral data in 
 
-Behavior.mat
+### Behavior.mat
 
       CSG.MonkeyA :Main task in Monkey A
       CSG.MonkeyD :Main task in Monkey D
       CSG.Human   :Main task in Humans
       CSGrandom.Subject** : control task with probabilistic reward
       
- format:
+### Format:
       Time_sec: Go event time stemps in second
       Tt_ms: target interval
       Tp_ms: production interval
@@ -17,16 +17,15 @@ Behavior.mat
       Reward: amount of reward normalized to the maximium value.
 ## Neural data
 
-unzip this file: SpikingData.zip
-
-Two monkeys and three brain areas:  
+### unzip this file: SpikingData.zip
+ Two monkeys and three brain areas:  
      { 'Acortex';
       'Dcortex';
       'Acaudate';
       'Dcaudate';
       'Athalamus';
       'Dthalamus'}
-  format:    
+  ### Format:    
       Tp_sec: production interval in second
       Rew: 1 and 0's indicating reward or miss
       TrialCondition: e.g. 'ELr' means Eye, Long, saccade target on the right
