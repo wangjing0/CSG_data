@@ -1,5 +1,15 @@
+# Behavioral data
+
+Behavior.mat
+
+      CSG.MonkeyA :CSG main task in Monkey A
+      CSG.MonkeyD :CSG main task in Monkey D
+      CSG.Human   :CSG main task in Humans
+      CSGrandom.Subject** : CSG with probabilistic random reward given
+  
 # Neural data
-unzip this file: SpikingData.zip
+
+start from this file: SpikingData.zip
 
   Two monkeys and three brain areas: 
      { 'Acortex';
