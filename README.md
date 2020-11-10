@@ -8,13 +8,13 @@
       CSGrandom.Subject** : control task with probabilistic reward
       
 ### Format:
-      Time_sec: Go event time stamps
-      Tt_ms: target interval
+      Time_sec: Go event time stamps, in second
+      Tt_ms: target interval, in ms
       Tp_ms: production interval
       Hand: 1, Hand; 0, Eye trial type
       Long: 1, Long interval; 0, Short interval trial type
       Left: 1, Saccadic target at left visual field; 0, right
-      Reward: amount of reward normalized to the maximium value.
+      Reward: [0, 1] amount of reward normalized to the maximium value.
 ## Neural
 
 ### unzip this file: SpikingData.zip
