@@ -8,7 +8,7 @@
       CSGrandom.Subject** : control task with probabilistic reward
       
 ### Format:
-      Time_sec: Go event time stemps in second
+      Time_sec: Go event time stamps
       Tt_ms: target interval
       Tp_ms: production interval
       Hand: 1, Hand; 0, Eye trial type
@@ -27,7 +27,7 @@
       'Dthalamus'}
   ### Format:    
       Tp_sec: production interval in second
-      Rew: 1 and 0's indicating reward or miss
+      Rew: reward or miss
       TrialCondition: e.g. 'ELr' means Eye, Long, saccade target on the right
-      EventTime_sec : timestemps of four events(Cue, Tar, Set, Go) in each trial
-      neuron_spktime: spiking timestep for neurons recorded simultaneously
+      EventTime_sec : time stamps of the four events(Cue, Tar, Set, Go) in each trial
+      neuron_spktime: spike time for individual neuron 
